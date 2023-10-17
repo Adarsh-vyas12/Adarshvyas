@@ -1,5 +1,3 @@
-# Adarshvyas
-
 <h1 align="center">Hi 👋, I'm Adarsh Vyas</h1>
 <h3 align="center">A Passionate Backend Developer</h3>
 
