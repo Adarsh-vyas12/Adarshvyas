@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adarsh Vyas</h1>
 <h3 align="center">A Passionate Backend Developer</h3>
 
-- 🌱 I’m currently learning **Java Full Stack,API,SpringBoot,J2EE and much more**
+🚀 Here are a few things about me:
 
-- 📫 How to reach me **adarshvyas010@gmail.com**
+- 🌱 I'm currently focused on Java Full Stack development, API design, and Spring Boot.
+- 💡 I have a strong interest in designing scalable and efficient Java applications.
+- 🔧 I love working with Spring Framework, Hibernate, and other Java technologies.
+- 💬 Let's connect and collaborate on exciting Java projects!
+- 📫 You can reach me at adarshvyas010@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
